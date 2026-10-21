@@ -101,5 +101,5 @@ GazeLearn/
 
 ## 👩‍💻 Author
 
-**Janhavi Naik** | B.Tech Computer Technology, YCCE Nagpur  
-[GitHub](https://github.com/Janhavi1512) • [LinkedIn](https://linkedin.com/in/janhavi-naik-1b5474270)
+**Shravani Aney** | B.Tech Computer Technology, YCCE Nagpur  
+[GitHub](https://github.com/AneyShravani)
